@@ -1,4 +1,4 @@
-README.md
+#README.md
 1. git config.
 2. git init.
 3. git clone.
@@ -7,4 +7,4 @@ README.md
 6. git diff.
 7. git reset.
 8. git status
-https://github.com/postmda/MDA610
+[Sunie repository]https://github.com/postmda/MDA610
